@@ -228,8 +228,7 @@ def generate_data(args, checkpoint_path, num_sample, start_step=0, vis=True):
 
         classifier.eval()
         classifier_list.append(classifier)
-
-    softmax_f = nn.Softmax(dim=1)
+        
     with torch.no_grad():
         latent_cache = []
         image_cache = []
