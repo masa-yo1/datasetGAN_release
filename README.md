@@ -12,17 +12,6 @@ This is the official code and data release for:
 **CVPR'21, Oral** **[[paper](https://arxiv.org/abs/2104.06490)] [[supplementary](https://drive.google.com/file/d/1td1nP8FP0axHXFxl9_EXCtHQHhnaUQl8/view?usp=sharing)] [[Project Page](https://nv-tlabs.github.io/datasetGAN/)]**
 
 <img src = "./figs/teaser3.png" width="80%"/>
-
-## News
-
-- Benchmark Challenge - A benchmark with diversed testing images is coming soon -- stay tuned!
-
-- Generated dataset for downstream tasks is coming soon -- stay tuned!
-
-- **New version released under [[EditGAN](https://github.com/nv-tlabs/editGAN_release)].**.  
-   :white_check_mark: Training on real images with encoder.  
-   :white_check_mark: Support Stylegan2 backbone.  
-   :white_check_mark: Support high precision semantic editing.  
       
    
 ## License
@@ -143,18 +132,4 @@ To create your own model, please follow the following steps:
    b. ```latent_stylegan1.npy```  (Dim: number_data *512)  is cache z latent codes to retrive corresponding training images. 
 
 3. Annotate image as you like, follow the file format in  [google drive](https://drive.google.com/drive/folders/1Oa9XpyKnRSN5s9-ab2-5j3wvH374JOu8?usp=sharing) and put annotation in the folder of ***./datasetGAN/dataset_release***. 
-
-## Citations
-
-Please ue the following citation if you use our data or code: 
-
-```
-@inproceedings{zhang2021datasetgan,
-  title={Datasetgan: Efficient labeled data factory with minimal human effort},
-  author={Zhang, Yuxuan and Ling, Huan and Gao, Jun and Yin, Kangxue and Lafleche, Jean-Francois and Barriuso, Adela and Torralba, Antonio and Fidler, Sanja},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={10145--10155},
-  year={2021}
-}
-```
 
