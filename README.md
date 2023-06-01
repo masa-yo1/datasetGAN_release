@@ -40,10 +40,10 @@ pip install -r requirements.txt
 
 
 ## Result images
-      <img src = "./figs/224834.jpg" width="80%"/>
-      <img src = "./figs/224840.jpg" width="80%"/>
-      <img src = "./figs/224844.jpg" width="80%"/>
+<img src = "./figs/224834.jpg" width="80%"/>
+<img src = "./figs/224840.jpg" width="80%"/>
+<img src = "./figs/224844.jpg" width="80%"/>
       
 ## Annotation images
-      <img src = "./figs/224849 2.jpg" width="80%"/>
+<img src = "./figs/224849 2.jpg" width="80%"/>
       
