@@ -134,7 +134,10 @@ To create your own model, please follow the following steps:
 3. Annotate image as you like, follow the file format in  [google drive](https://drive.google.com/drive/folders/1Oa9XpyKnRSN5s9-ab2-5j3wvH374JOu8?usp=sharing) and put annotation in the folder of ***./datasetGAN/dataset_release***. 
 
 ## Result images
-      <img src = "./figs/new_table2.png" width="80%"/>
-      <img src = "./figs/new_table2.png" width="80%"/>
-      <img src = "./figs/new_table2.png" width="80%"/>
+      <img src = "./figs/224834.jpg" width="80%"/>
+      <img src = "./figs/224840.jpg" width="80%"/>
+      <img src = "./figs/224844.jpg" width="80%"/>
+      
+## Annotation images
+      <img src = "./figs/224849 2.jpg" width="80%"/>
       
